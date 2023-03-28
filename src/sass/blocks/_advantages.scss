@@ -1,0 +1,26 @@
+.advantages {
+    min-height: 475px;
+    background-color: #F6F6F6;
+    padding: 70px 0 50px;
+    &__wrapper {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 75px;
+    }
+    &__item {
+        width: 275px;
+        text-align: center;
+    }
+    &__subheader {
+        font-weight: 700;
+        font-size: 18px;
+        color: $dark-grey;
+        margin-top: 40px;
+    }
+    &__descr {
+        margin-top: 28px;
+        a {
+            color: $main-color;
+        }
+    }
+}
