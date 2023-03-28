@@ -1,2 +1,2 @@
 # puls 
-# my learning project
+my learning project
