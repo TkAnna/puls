@@ -5,6 +5,12 @@
         width: 750px;
         margin: 0 auto;
 
+        .slick-slide {
+            img {
+                width: 100%;
+            }
+        }
+
         .slick-arrow {
             position: absolute;
             border: none;
