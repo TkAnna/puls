@@ -9,6 +9,8 @@
 # production
 /build
 
+src/mailer/smart.php
+
 # misc
 .DS_Store
 .env.local
